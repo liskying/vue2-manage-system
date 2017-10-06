@@ -9,7 +9,7 @@ export default {
   name: 'test',
   data () {
     return {
-      Message: '自定义VUe组件测试'
+      Message: '自定义Vue组件测试'
     }
   }
 }
